@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\TransflowerStoreEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\catelog\\productdalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:catelog\\productdalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\catelog\\productbllmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:catelog\\productbllmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\crm\\customerdalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:crm\\customerdalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\catelog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:catelog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\transflowerstoreweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:transflowerstoreweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\shoppingcart\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:shoppingcart\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\shoppingcart\\cartdalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:shoppingcart\\cartdalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\shoppingcart\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:shoppingcart\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\crm\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:crm\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|d:\\tap\\transflowerstoreecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933DF67-75F4-4C14-AECC-8A0B8C43CE7F}|TransflowerStoreWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:19:04.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductBLLManager.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\Catelog\\ProductBLLManager.cs",
+              "RelativeDocumentMoniker": "Catelog\\ProductBLLManager.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\Catelog\\ProductBLLManager.cs",
+              "RelativeToolTip": "Catelog\\ProductBLLManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:18:44.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T16:17:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\ShoppingCart\\Item.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Item.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\ShoppingCart\\Item.cs",
+              "RelativeToolTip": "ShoppingCart\\Item.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:01:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\ShoppingCart\\Cart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Cart.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\ShoppingCart\\Cart.cs",
+              "RelativeToolTip": "ShoppingCart\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:00:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\Catelog\\Product.cs",
+              "RelativeDocumentMoniker": "Catelog\\Product.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\Catelog\\Product.cs",
+              "RelativeToolTip": "Catelog\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:59:11.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\CRM\\Customer.cs",
+              "RelativeDocumentMoniker": "CRM\\Customer.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\CRM\\Customer.cs",
+              "RelativeToolTip": "CRM\\Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:53:57.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:42:22.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartDALManager.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\ShoppingCart\\CartDALManager.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\CartDALManager.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\ShoppingCart\\CartDALManager.cs",
+              "RelativeToolTip": "ShoppingCart\\CartDALManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:42:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransflowerStoreWeb",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\TransflowerStoreWeb.csproj",
+              "RelativeDocumentMoniker": "TransflowerStoreWeb.csproj",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\TransflowerStoreWeb.csproj",
+              "RelativeToolTip": "TransflowerStoreWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T15:26:23.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDALManager.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\Catelog\\ProductDALManager.cs",
+              "RelativeDocumentMoniker": "Catelog\\ProductDALManager.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\Catelog\\ProductDALManager.cs*",
+              "RelativeToolTip": "Catelog\\ProductDALManager.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwGQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:26:29.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDALManager.cs",
+              "DocumentMoniker": "D:\\TAP\\TransflowerStoreEcommerce\\CRM\\CustomerDALManager.cs",
+              "RelativeDocumentMoniker": "CRM\\CustomerDALManager.cs",
+              "ToolTip": "D:\\TAP\\TransflowerStoreEcommerce\\CRM\\CustomerDALManager.cs",
+              "RelativeToolTip": "CRM\\CustomerDALManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:04:32.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
