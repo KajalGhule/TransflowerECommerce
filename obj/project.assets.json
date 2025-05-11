@@ -4150,11 +4150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAP\\TransflowerStoreEcommerce\\TransflowerStoreWeb.csproj",
+      "projectUniqueName": "D:\\TAP\\TransflowerECommerce\\TransflowerStoreWeb.csproj",
       "projectName": "TransflowerStoreWeb",
-      "projectPath": "D:\\TAP\\TransflowerStoreEcommerce\\TransflowerStoreWeb.csproj",
+      "projectPath": "D:\\TAP\\TransflowerECommerce\\TransflowerStoreWeb.csproj",
       "packagesPath": "C:\\Users\\KAJAL\\.nuget\\packages\\",
-      "outputPath": "D:\\TAP\\TransflowerStoreEcommerce\\obj\\",
+      "outputPath": "D:\\TAP\\TransflowerECommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

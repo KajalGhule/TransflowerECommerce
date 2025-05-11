@@ -210,12 +210,12 @@ public class ProductDALManager
         bool status = false;
         IDbConnection conn = ProductDALManager.dbConnection();
         IDbCommand cmd = new MySqlCommand();
-        string query = "update product set Title=@title, Description=@description, UnitPrice=@unitPrice, Quantity=@quantity, Image=@image where ProductId=@id";
+        string query = "update product set ProductName=@productName, Description=@description, UnitPrice=@unitPrice, Quantity=@quantity, Image=@image where ProductId=@id";
         cmd.Connection = conn;
         cmd.CommandText = query;
 
         cmd.Parameters.Add(new MySqlParameter("@id", p.ProductId));
-        cmd.Parameters.Add(new MySqlParameter("@title", p.ProductName));
+        cmd.Parameters.Add(new MySqlParameter("@productName", p.ProductName));
         cmd.Parameters.Add(new MySqlParameter("@description", p.Description));
         cmd.Parameters.Add(new MySqlParameter("@unitPrice", p.UnitPrice));
         cmd.Parameters.Add(new MySqlParameter("@quantity", p.Quantity));

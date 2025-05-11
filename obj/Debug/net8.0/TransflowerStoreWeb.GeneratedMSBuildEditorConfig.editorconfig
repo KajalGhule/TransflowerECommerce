@@ -17,117 +17,69 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TransflowerStoreWeb
 build_property.RootNamespace = TransflowerStoreWeb
-build_property.ProjectDir = D:\TAP\TransflowerStoreEcommerce\
+build_property.ProjectDir = D:\TAP\TransflowerECommerce\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\TAP\TransflowerStoreEcommerce
+build_property.MSBuildProjectDirectory = D:\TAP\TransflowerECommerce
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Account/ForgotPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/Account/LogOut.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dPdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/Customer/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/Customer/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/Customer/Insert.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5zZXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/Customer/Update.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/Home/AboutUs.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Home/Contact.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Home/Index.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Home/Privacy.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Home/Services.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Products/Details.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Products/Index.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Products/Insert.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Products/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5zZXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Products/Update.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Products/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Shared/Error.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/ShoppingCart/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/ShoppingCart/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/ShoppingCart/Insert.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluc2VydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/ShoppingCart/Update.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XFVwZGF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/TAP/TransflowerStoreEcommerce/Views/_ViewImports.cshtml]
+[D:/TAP/TransflowerECommerce/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/_ViewStart.cshtml]
+[D:/TAP/TransflowerECommerce/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TAP/TransflowerStoreEcommerce/Views/Shared/_Layout.cshtml]
+[D:/TAP/TransflowerECommerce/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5l91zjsqk5

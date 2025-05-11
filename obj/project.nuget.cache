@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcL+JMKwbWc=",
+  "dgSpecHash": "Kl32kKeSuLc=",
   "success": true,
-  "projectFilePath": "D:\\TAP\\TransflowerStoreEcommerce\\TransflowerStoreWeb.csproj",
+  "projectFilePath": "D:\\TAP\\TransflowerECommerce\\TransflowerStoreWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KAJAL\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\KAJAL\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
