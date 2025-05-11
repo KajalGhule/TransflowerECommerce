@@ -1,0 +1,38 @@
+@using System.Collections.Generic;
+@using Catelog;
+@using BLL;
+@{
+    ViewData["Title"] = "Product Home Page";
+}
+<link rel="stylesheet" href="~/css/Style.css" />
+
+<div class="main">
+    <h1 >Products Catelog</h1>
+    <a href="/Products/Insert"><button class="btn">Insert new Flower</button></a>
+
+    @{
+        List<Product> products = (List<Product>)ViewData["allProducts"];
+        <div class="container">
+            @foreach (Product product in products)
+            {
+                <div class="cart">
+                    <h2>@product.ProductName</h2>
+                    <img src="@product.Image" width="100" height="100" />
+                    @* <p><b>ProductId:</b> @product.ProductId</p> *@
+                    <p><b>Title: </b>@product.ProductName</p>
+                    @* <p><b>Description:</b> @product.Description</p> *@
+                    <p><b>Price:</b> @product.UnitPrice</p>
+                    @* <p><b>Available stock:</b> @product.Quantity</p> *@
+                    <a href="/Products/Details/@product.ProductId"> <button>Details</button></a>
+                    
+                </div>
+            }
+        </div>
+
+
+    }
+    <hr>
+    <hr>
+  
+
+</div>
